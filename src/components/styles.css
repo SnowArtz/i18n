@@ -1,0 +1,10 @@
+/* styles.css */
+.thead-light {
+    background-color: #f8f9fa; /* Color claro para Español */
+    color: #495057; /* Color de texto para contraste con fondo claro */
+}
+
+.thead-dark {
+    background-color: #343a40; /* Color oscuro para Inglés */
+    color: #ffffff; /* Color de texto para contraste con fondo oscuro */
+}
